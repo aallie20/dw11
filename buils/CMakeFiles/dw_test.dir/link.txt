@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dw_test.dir/tests/dw_test.cpp.o CMakeFiles/dw_test.dir/src/dw.cpp.o -o dw_test  lib/libgtest_main.a lib/libgtest.a 
